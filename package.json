@@ -28,7 +28,6 @@
   "scripts": {
     "prepublish": "node prepublish.js",
     "test": "node test.js",
-    "preinstall": "node prepublish.js",
     "postinstall": "node postinstall.js"
   },
   "dependencies": {
